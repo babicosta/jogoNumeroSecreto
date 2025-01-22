@@ -77,7 +77,7 @@ cd jogoNumeroSecreto
 
 Se tiver dúvidas ou sugestões, entre em contato:
 
-- **GitHub:** [babicosta](https://github.com/babicosta)
+- **GitHub:** [barbaracostas](https://github.com/barbaracostas)
 - **LinkedIn:** [Bárbara Costa](https://www.linkedin.com/in/barbara-costa-654984136/)
 
 Divirta-se jogando! 🎮
