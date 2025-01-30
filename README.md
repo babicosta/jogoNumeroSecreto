@@ -71,6 +71,8 @@ cd jogoNumeroSecreto
 
 ---
 
+- **Gist:** [Caso o navegador não suporte a API Web Speech](https://gist.github.com/barbaracostas/3ed76761395ce362aec87af60356e920) 
+
 #Observações: O projeto foi desenvolvido durante as aulas na Alura, por meio da bolsa que recebi da iniciativa One.
 
 ## Contato
