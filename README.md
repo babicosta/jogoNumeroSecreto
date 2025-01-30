@@ -75,7 +75,8 @@ cd jogoNumeroSecreto
 
 ---
 
-#Observações: O projeto foi desenvolvido durante as aulas na Alura, por meio da bolsa que recebi da iniciativa One.
+#Observações:
+O projeto foi desenvolvido durante as aulas na Alura, por meio da bolsa que recebi da iniciativa One.
 ---
 ## Contato
 
